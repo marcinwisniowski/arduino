@@ -19,6 +19,8 @@ precisely what parts and modules are neede to finish the task.
 
 ## Software
 
-### Source Code
+This project uses Arduino sketches. All the code that address subject of exersises will followe this principle. It is assumed that [Arduino IDE](https://www.arduino.cc/en/main/software) is installed and configured to work with Arduino compatible boards.
 
-### Schematics
+## Schematics
+
+Exercises may include some schematics and visualization. Those were prepared using [Frizing](https://fritzing.org/download/).
