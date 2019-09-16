@@ -12,6 +12,7 @@ This exercise will show how to use an Arduino as a powers source for simple LED 
 * Resistor 10 kΩ
 * 3x Tact switch
 * 3x 5mm LED Red
+* Potentiometer 10 kΩ
 
 ## Part 1
 
@@ -37,4 +38,14 @@ This section extends previous example by providing a little bit of manual contro
 
 With this Approach LED will emit light only when proper button is pressed.
 
-![Part 1 Schematics](led_basics_part_2_bb.svg)
+![Part 2 Schematics](led_basics_part_2_bb.svg)
+
+## Part 3
+
+Third part is focused on using Rotary potentiometer to dynamically adjust LED dimming effect. For this a 10k rotary potentiometer will be used.
+
+![Part 3 Schematics](led_basics_part_3_schem.svg)
+
+By creating this simple circuit on a breadboard and then rotating the potentiometer it can be seen how LED changes it brightness.
+
+![Part 3 Schematics](led_basics_part_3_bb.svg)
